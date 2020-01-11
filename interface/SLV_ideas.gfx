@@ -1,0 +1,9 @@
+spriteTypes = {	
+    
+	spriteType = {
+		name = "GFX_idea_home_guard"
+		texturefile = "gfx/interface/ideas/SLV_home_guard.dds"
+	}
+
+}	
+	

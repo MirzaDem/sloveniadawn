@@ -18,6 +18,10 @@ set_technology = {
 	early_submarine = 1
 }
 
+add_ideas = {
+		home_guard
+	}
+
 set_politics = {
 	ruling_party = democratic
 	last_election = "1936.1.1"
@@ -48,6 +52,17 @@ create_country_leader = {
 	picture = "Portrait_Boris.dds"
 	expire = "1965.1.1"
 	ideology = stalinism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Leon Rupnik"
+	desc = "POLITICS_SALCHAK_TOKA_DESC"
+	picture = "Portrait_Leon.dds"
+	expire = "1965.1.1"
+	ideology = nazism
 	traits = {
 		#
 	}
