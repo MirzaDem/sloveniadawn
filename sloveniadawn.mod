@@ -6,5 +6,4 @@ tags={
 	"Gameplay"
 }
 name="Slovenian Dawn"
-supported_version="1.8.1"
-path="C:/Users/Nutzer/Documents/Paradox Interactive/Hearts of Iron IV/mod/sloveniadawn"
+path="C:/Users//Documents/Paradox Interactive/Hearts of Iron IV/mod/sloveniadawn"
